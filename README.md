@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! my name is Leonardo and I'm a Systems Analysis and Development's student at Fatec</h2>
+<h2 align="left">Hi 👋! My name is Leonardo and I'm a Systems Analysis and Development's student at Fatec</h2>
 
 ###
 
